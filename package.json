@@ -2,9 +2,10 @@
   "name": "jsbot",
   "version": "1.0.0",
   "description": "my discord bot",
-  "main": "index.js",
+  "main": "spice.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node spice.js"
   },
   "author": "Legend X",
   "license": "ISC",
